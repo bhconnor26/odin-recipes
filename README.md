@@ -1,1 +1,2 @@
 #odin-recipes
+Hello, this is my first project in html usiing the odin project as a learning resource. This website will consist of various recipes, demonstrating my ability to use links, images, tags, and successfully navigate the basics of the html boilerplate.
